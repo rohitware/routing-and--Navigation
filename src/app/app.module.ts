@@ -13,6 +13,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
     DepartmentListComponent,
     EmployeeListComponent,
     PageNotFoundComponent
+    
   ],
   imports: [
     BrowserModule,
